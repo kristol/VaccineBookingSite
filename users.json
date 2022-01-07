@@ -1,0 +1,18 @@
+{
+    "5ff6fe93e37d2": {
+        "name": "admin",
+        "TAJ": 0,
+        "address": "a",
+        "email": "admin@nemkovid.hu",
+        "passwd": "$2y$10$TbiNZtUDqV0DE6RZDR8\/3urZfxsEFOfMKuxnRv4AYnibGhCXAjzea",
+        "id": "5ff6fe93e37d2"
+    },
+    "5ff6fed3a9d00": {
+        "name": "Kiss J\u00falia",
+        "TAJ": 123456789,
+        "address": "Sas utca 3.",
+        "email": "abc@abc.hu",
+        "passwd": "$2y$10$s8ZVfjm8z.oMAGasb1Nbk.nR9PhgcwzL\/LD172mSJwTH2NABjXMKy",
+        "id": "5ff6fed3a9d00"
+    }
+}
